@@ -1,5 +1,5 @@
-# Setup
-## What do you need to play online?
+# Chapter 0 - Setup
+## Lesson 0 - What do you need to play online?
 
 ### Game version
 You need one of these releases: Shadow of Death, Gold Edition or Complete. If you don't have the Shadow of Death expansion available (check the campaigns menu), then the easiest way to get it is to buy Complete edition on [Good Old Games](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition).  
@@ -25,4 +25,6 @@ After you have updated the HD mod, adjust the settings to your liking. I recomme
 When you are ready, select
 ![h3hota.exe](img/dropdown.png) from the dropdown list and run the game.
 
-If you have never played Horn of the Abyss before, you should play around a bit with the new faction in singleplayer - Cove - before continuing to the next lesson.
+You might see an information about Heroes 3 requiring DirectPlay - accept installation of this component.
+
+If you have never played Horn of the Abyss before, you should play around a bit with the new faction in singleplayer - Cove - before continuing to the [next lesson](lesson001.md).
