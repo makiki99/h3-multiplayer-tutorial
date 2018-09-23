@@ -1,5 +1,5 @@
-# Chapter 0 - Setup
-## Lesson 1 - Online lobby
+# Chapter 1 - Setup
+## Lesson 2 - Online lobby
 
 ### Joining the lobby
 First thing you have to do is to create an account. Open the game, click "New Game", then click "Multiplayer". You will see this window:  
@@ -18,4 +18,4 @@ If you are in a ranked game, and you want to surrender, you **HAVE** to click "a
 The online lobby also features a reputation system. Everyone starts at zero reputation, but it can go into the negative values. When someone adds you to their friendlist, your reputation will grow. If someone will add you to their blacklist, your reputation will drop. Reaching negative reputation can result in most people not wanting to play with you.
 
 ### Online rules
-You will probably also notice "Online gaming rules", which leads to [this](http://h3hota.com/en/rules) link. The rules, and common modifications to them will be explained in the next lessons.
+You will probably also notice "Online gaming rules", which leads to [this](http://h3hota.com/en/rules) link. The rules, and common modifications to them will be explained in the [next chapter](../Chapter02/lesson003.md) - be sure to read it before hopping into a game with someone you don't know.
