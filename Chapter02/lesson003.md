@@ -8,7 +8,7 @@ This is a setting that will be used for nearly all matches you will play. It for
 * No joiners - you can't join neutral units to your army, and the effects of Diplomacy skill are limited to cheaper surrender and earlier access to the Library of Enlightenment.
 * Limited Dimension Door - you can cast Dimension Door spell only once per hero during a single turn. The only exception is when your hero has Expert Air Magic, and the map is XL+underground size or larger - then you are allowed to cast it twice.
 * No hit and run - if you attack an enemy hero, and cast a spell during the first turn, you can't surrender or retreat until the end of the first turn. This restriction doesn't apply in the second or later turns, and it doesn't apply to defending hero.
-* Cloak of the Balanced King resurrects only skeletons instead of zombies, wraiths or liches.
+* Cloak of the Undead King resurrects only skeletons instead of zombies, wraiths or liches.
 
 In other words, Tournament rules setting prevents the most unbalanced things from multiplayer games, while not taking them away from single player games.
 
