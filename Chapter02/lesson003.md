@@ -5,7 +5,7 @@ Despite Horn of the Abyss improving the balance of the game, some of the things 
 ### Tournament rules setting
 ![Tournament rules setting](img/tournament_rules.png)  
 This is a setting that will be used for nearly all matches you will play. It forces some rules that aren't normally enforced ingame:
-* No joiners - you can't join neutral units to your army, and the effects of Diplomacy skill are limited to cheaper surrender and earlier access to the Library of Enlightenment.
+* No joiners - you can't join neutral units to your army and the effects of Diplomacy skill are limited to cheaper surrender and earlier access to the Library of Enlightenment.
 * Limited Dimension Door - you can cast Dimension Door spell only once per hero during a single turn. The only exception is when your hero has Expert Air Magic, and the map is XL+underground size or larger - then you are allowed to cast it twice.
 * No hit and run - if you attack an enemy hero, and cast a spell during the first turn, you can't surrender or retreat until the end of the first turn. This restriction doesn't apply in the second or later turns, and it doesn't apply to defending hero.
 * Cloak of the Undead King resurrects only skeletons instead of zombies, wraiths or liches.
@@ -19,12 +19,12 @@ To ask for a restart, just write 111 or 112 in the chat (`tab` button), dependin
 
 Knowing when to take a restart is an important skill - you don't want to play a game where you have no tools available to you.
 
-### But what those digits mean?
-You might just have asked this question while reading about restarts. It is a shorthand for month, week and day. The easiest way to explain this notation is through examples:
+### But what do those digits mean?
+You might have asked this question while reading about restarts. It is a shorthand for month, week and day. The easiest way to explain this notation is through examples:
 * Month 1, Week 2, Day 5 - shortened to 125
 * Month 3, Week 4, Day 1 - shortened to 341
 * Month 2, Week 1, Day 7 - shortened to 217
 
-As you see, this is a much quicker way to convey the ingame dates.
+As you can see, this is a much quicker way to convey the ingame dates.
 
 In the [next lesson](lesson004.md), you will learn about the way how the factions are picked in competitive matches.
