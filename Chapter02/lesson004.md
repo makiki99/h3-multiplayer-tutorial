@@ -1,5 +1,5 @@
 # Chapter 2 - Rules and customs
-## Lesson 4 - Common rules, part 2
+## Lesson 4 - Faction selection
 
 If you have already seen some competitive matches, you might have seen that players don't limit themselves to a single faction. There are few commonly used ways to determine what factions players will play during the game, and two of them use the PvP-options menu.  
 ![PvP-options menu](img/pvp_options.png)
@@ -7,7 +7,8 @@ If you have already seen some competitive matches, you might have seen that play
 **IMPORTANT**: Competitive matches are played in 1v1 format, and both trade and elimination faction selection mechanism work only in this format as described.
 
 ### Trade
-This is the most common way to determine the factions. Using the "Random vs Random" PvP-options menu, host generates a pair of factions. After this, any of the players begins the bidding phase with his opening bid. A bid has to be a multiple of 100 gold, and you can't bid more than you have at start. Other player then decides to either accept the bid or raise it.  
+This is the most common way to determine the factions. Using the "Random vs Random" PvP-options menu, host generates a pair of factions, and both players are allowed to ask for a new pair once. After this, any of the players begins the bidding phase with his opening bid. A bid has to be a multiple of 100 gold, and you can't bid more than you have at start. Other player then decides to either accept the bid or raise it.  
+**IMPORTANT**: In case of mirror matchup (both factions are the same), instead for the faction selection priority, players bid for the priority on the hero choice. Some players also play with a free reroll of the pair in case of mirror matchup.  
 Example:
 ```
 <SYSTEM>: Stronghold vs Conflux
@@ -58,4 +59,6 @@ The least common of the standard ways of choosing factions, which is leaving fac
 The casual-only way to choose the faction. Both players choose whatever they want. Be warned though: Both players can't choose the same starting hero, which may result in arguments. I recommend the blue player to pick his faction and starting hero first.
 
 ### But what if I play a 3-player match or more?
-Because match types other than 1v1 are uncommon to be played competitively, there are no established rules for faction selection in case of team vs team or free-for-all matches. If you wish to play it with anything else than good old all random or pick any, you have to come up with a solution.
+Because match types other than 1v1 are uncommon to be played competitively, there are no established rules for faction selection in case of team vs team or free-for-all matches. If you wish to play it with anything else than good old all random or pick any methods, you have to come up with a solution.
+
+The next lesson will give you the information about timer

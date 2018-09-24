@@ -1,5 +1,5 @@
 # Chapter 2 - Rules and customs
-## Lesson 3 - Common rules, part 1
+## Lesson 3 - Common rules
 Despite Horn of the Abyss improving the balance of the game, some of the things can only be regulated through additional rules you have to keep mind of.
 
 ### Tournament rules setting
