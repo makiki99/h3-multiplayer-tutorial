@@ -1,5 +1,5 @@
 # Chapter 2 - Rules and customs
-## Lesson 3 - Common rules
+## Lesson 3 - Common rules, part 1
 Despite Horn of the Abyss improving the balance of the game, some of the things can only be regulated through additional rules you have to keep mind of.
 
 ### Tournament rules setting
@@ -27,4 +27,4 @@ You might just have asked this question while reading about restarts. It is a sh
 
 As you see, this is a much quicker way to convey the ingame dates.
 
-In the next lesson, you will learn about the way how the factions are picked in competitive matches.
+In the [next lesson](lesson004.md), you will learn about the way how the factions are picked in competitive matches.
