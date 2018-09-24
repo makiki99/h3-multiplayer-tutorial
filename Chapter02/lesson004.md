@@ -61,4 +61,4 @@ The casual-only way to choose the faction. Both players choose whatever they wan
 ### But what if I play a 3-player match or more?
 Because match types other than 1v1 are uncommon to be played competitively, there are no established rules for faction selection in case of team vs team or free-for-all matches. If you wish to play it with anything else than good old all random or pick any methods, you have to come up with a solution.
 
-The next lesson will give you the information about timer
+The next lesson will give you the information about timer, simultaneous turns, and customs.
