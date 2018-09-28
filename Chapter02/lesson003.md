@@ -4,7 +4,7 @@ Despite Horn of the Abyss improving the balance of the game, some of the things 
 
 ### Tournament rules setting
 ![Tournament rules setting](img/tournament_rules.png)  
-This is a setting that will be used for nearly all matches you will play. It forces some rules that aren't normally enforced ingame:
+This is a setting that will be used for nearly all matches you will play. It forces some rules that aren't normally enforced ingame, the most important of these being:
 * No joiners - you can't join neutral units to your army and the effects of Diplomacy skill are limited to cheaper surrender and earlier access to the Library of Enlightenment.
 * Limited Dimension Door - you can cast Dimension Door spell only once per hero during a single turn. The only exception is when your hero has Expert Air Magic, and the map is XL+underground size or larger - then you are allowed to cast it twice.
 * No hit and run - if you attack an enemy hero, and cast a spell during the first turn, you can't surrender or retreat until the end of the first turn. This restriction doesn't apply in the second or later turns, and it doesn't apply to defending hero.

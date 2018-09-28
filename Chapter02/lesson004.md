@@ -58,7 +58,7 @@ The least common of the standard ways of choosing factions, which is leaving fac
 ### Pick any
 The casual-only way to choose the faction. Both players choose whatever they want. Be warned though: Both players can't choose the same starting hero, which may result in arguments. I recommend the blue player to pick his faction and starting hero first.
 
-### "But what if I play a 3-player match or more?"
+### "But what if I play a 3-player match or more?""
 Because match types other than 1v1 are uncommon to be played competitively, there are no established rules for faction selection in case of team vs team or free-for-all matches. If you wish to play it with anything else than good old all random or pick any methods, you have to come up with a solution.
 
-The next lesson will give you the information about timer, simultaneous turns, and.
+The [next lesson](lesson005.md) will give you the information about timer, simultaneous turns, and etiquette.
