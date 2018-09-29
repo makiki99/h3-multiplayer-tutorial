@@ -27,4 +27,9 @@ You might have asked this question while reading about restarts. It is a shortha
 
 As you can see, this is a much quicker way to convey the ingame dates.
 
+### Endless combat clause
+This is a rule that comes rarely into play, but it is extremely important. If the combat between two players is unwinnable by any of them, the attacker has to retreat or surrender. For example: attacker has 100 walking dead, defender has 1 serpent fly. The serpent fly can avoid the attacks indefinitely, but can't kill the walking dead. This results in an endless combat, so the attacker has to retreat or surrender.
+
+The main reason why this rule is rarely relevant is that players have access to the massive amount of spells, that completely change the tide of the battle.
+
 In the [next lesson](lesson004.md), you will learn about the way how the factions are picked in competitive matches.
